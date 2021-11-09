@@ -1,0 +1,22 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+
+
+
+h1 {
+    color: #F03000;
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 2500;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.menu {
+    color: #F03000;
+}
